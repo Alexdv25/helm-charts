@@ -3,12 +3,12 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2026-06-14T22:52:42.5679964+03:00"
+    created: "2026-06-14T22:56:43.5148397+03:00"
     description: A Helm chart for deploying Nginx in Kubernetes
     digest: 78522885e09aef206f294981504a13cd5de1e61f34cb2b569505a48a85f69f37
     name: nginx
     type: application
     urls:
-    - nginx-0.1.0.tgz
+    - https://Alexdv25.github.io/helm-charts/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-14T22:52:42.5674808+03:00"
+generated: "2026-06-14T22:56:43.5143156+03:00"
